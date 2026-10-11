@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">TokiQuantLab — Exploring financial markets, AI &amp; next-generation fintech.</title>
+<desc id="desc">TokiQuantLab — 探索金融市场、AI 与下一代金融科技。A bilingual finance and technology lab.</desc>
+<g font-family="Arial, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif">
+<rect width="1200" height="360" fill="#f4f2e9"/>
+<rect width="1200" height="5" fill="#d8ff3e"/>
+<g fill="none" stroke="#102130" opacity=".17"><circle cx="1089" cy="87" r="94"/><circle cx="1089" cy="87" r="126"/><path d="M944 87 H1200 M1089 0 V209"/></g>
+<circle cx="1024" cy="19" r="5" fill="#d8ff3e" stroke="#102130"/>
+<g transform="translate(60 42)"><rect width="86" height="86" fill="#102130"/><text x="14.620000000000001" y="60.199999999999996" font-size="37.84" font-weight="800" fill="#f4f2e9" letter-spacing="-2">TQ</text><path d="M 47.300000000000004 27.52 L 73.96 8.6 M 61.919999999999995 8.6 H 73.96 V 21.5" stroke="#d8ff3e" stroke-width="2.5" fill="none"/></g>
+<text x="178" y="65" font-size="21" font-weight="700" letter-spacing="2.8" fill="#626e73">FINANCE / AI / QUANT</text>
+<text x="171" y="146" font-size="81" font-weight="800" letter-spacing="-3.8" fill="#102130">TokiQuantLab</text>
+<path d="M60 184 H1140" stroke="#102130" stroke-width="1.3"/>
+<text x="60" y="242" font-size="31" font-weight="600" letter-spacing="-.6" fill="#102130">Exploring financial markets, AI &amp; next-generation fintech.</text>
+<text x="62" y="289" font-size="27" fill="#626e73">探索金融市场、AI 与下一代金融科技。</text>
+<rect x="60" y="322" width="42" height="4" fill="#102130"/>
+<rect x="108" y="322" width="114" height="4" fill="#d8ff3e"/>
+</g></svg>

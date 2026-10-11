@@ -1,12 +1,12 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg">
-  <img src="./assets/profile-hero.svg" alt="TokiQuantLab — Exploring financial markets, AI and next-generation fintech. 探索金融市场、AI 与下一代金融科技。" width="100%">
+  <img src="./assets/profile-hero.svg" alt="TokiQuantLab / Toki 量化实验室 — Exploring financial markets, AI and next-generation fintech. 探索金融市场、AI 与下一代金融科技。" width="100%">
 </picture>
 
 <h2>About / 关于</h2>
 
-<p>I'm <strong>Toki</strong>. I explore financial markets, practical AI applications, and the tools shaping finance.</p>
-<p>我是 <strong>Toki</strong>，关注金融市场、AI 应用与金融科技，记录研究、工具实践与产品探索。</p>
+<p>I'm <strong>Toki</strong>, the creator of <strong>TokiQuantLab</strong>. I explore financial markets, practical AI applications, and next-generation fintech.</p>
+<p>我是 <strong>Toki</strong>，<strong>TokiQuantLab（Toki 量化实验室）</strong> 的创建者。探索金融市场、AI 与下一代金融科技。</p>
 
 <h2>Focus / 关注方向</h2>
 
@@ -27,8 +27,8 @@
 
 <h3>Toki Finance Daily / 财经日报</h3>
 
-<p>An AI-assisted workflow that turns financial news, macro data, and economic events into a visual daily briefing and a research site.</p>
-<p>用 AI 整理财经新闻、宏观数据与重要事件，生成日报长图和完整研究页面。</p>
+<p>An open-source AI financial daily briefing workflow. Agent Skills and Python turn financial news, economic calendars, and market data into Chinese daily posters and a research website.</p>
+<p>开源 AI 财经日报项目。结合 Agent Skills 与 Python，整理财经新闻、财经日历和市场数据，生成中文日报长图与完整研究网页。</p>
 
 <p><code>Python</code> · <code>Agent Skills</code> · <code>HTML/CSS</code></p>
 

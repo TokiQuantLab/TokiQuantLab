@@ -18,10 +18,12 @@
 
 <h2>Selected Work / 代表项目</h2>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/finance-daily-mobile.svg">
-  <img src="./assets/finance-daily.svg" alt="Toki Finance Daily — AI-assisted market briefing. 财经日报：新闻、宏观数据与重要事件的整理与解读；图中为日报示例。" width="100%">
-</picture>
+<a href="https://github.com/TokiQuantLab/toki-finance-daily" aria-label="Open Toki Finance Daily / 查看财经日报项目">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/finance-daily-mobile.svg">
+    <img src="./assets/finance-daily.svg" alt="Toki Finance Daily — AI-assisted market briefing. 财经日报：新闻、宏观数据与重要事件的整理与解读；点击查看项目。" width="100%">
+  </picture>
+</a>
 
 <h3>Toki Finance Daily / 财经日报</h3>
 

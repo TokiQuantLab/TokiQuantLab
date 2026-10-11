@@ -32,12 +32,15 @@
 
 <p><code>Python</code> · <code>Agent Skills</code> · <code>HTML/CSS</code></p>
 
-<h2>Connect / 联系</h2>
+<h2>Business Collaborations &amp; Suitable Job Opportunities / 商务合作 &amp; 合适的工作机会</h2>
 
-<a href="./assets/wechat-qr.png">
+<p>Contact me for brand collaborations, product experiences, or content partnerships. If my work fits your team, I also welcome invitations to discuss a relevant role.</p>
+<p>欢迎联系我洽谈品牌合作、产品体验或内容合作。如果我的作品与能力适合你的团队，也欢迎向我提供合适的工作机会。</p>
+
+<a href="./assets/contact.svg">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/wechat-contact-mobile.svg">
-    <img src="./assets/wechat-contact.svg" alt="WeChat / 微信 — Scan to connect. 扫码添加微信；点击可查看二维码原图。" width="100%">
+    <source media="(max-width: 600px)" srcset="./assets/contact-mobile.svg">
+    <img src="./assets/contact.svg" alt="商务合作 &amp; 合适的工作机会 / Business Collaborations &amp; Suitable Job Opportunities — WeChat / 微信、Telegram、WhatsApp；点击查看二维码大图。" width="100%">
   </picture>
 </a>
 

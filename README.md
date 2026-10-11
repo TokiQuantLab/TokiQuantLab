@@ -41,4 +41,3 @@
   </picture>
 </a>
 
-<p><a href="./assets/wechat-qr.png">Open QR code / 查看二维码原图</a></p>

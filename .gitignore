@@ -1,0 +1,7 @@
+preview/
+__pycache__/
+.DS_Store
+AGENTS.md
+DEVELOPMENT.md
+DESIGN.md
+config/brand-theme.json
